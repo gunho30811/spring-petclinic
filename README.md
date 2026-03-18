@@ -45,7 +45,7 @@ AWS EC2 (13.220.3.217:8080)
 ![localhost8080](https://github.com/user-attachments/assets/02d4b60e-59aa-44df-aa36-13e8f1275a16)
 
 ### 2단계 - Docker 컨테이너 실행 (localhost:8081)
-![localhost8081](https://github.com/user-attachments/assets/3313d6e9-2a7a-4af4-9577-66e01b16dbbb)
+![AWS배포](https://github.com/user-attachments/assets/dab17933-656a-425c-9580-b7baf7e8c51f)
 
 ### 3단계 - GitHub Actions CI/CD 성공
 <img width="1377" height="884" alt="githubActions" src="https://github.com/user-attachments/assets/9517f745-7a37-42cc-ab0b-2d159f7ac4c9" />
@@ -54,7 +54,7 @@ AWS EC2 (13.220.3.217:8080)
 <img width="2353" height="436" alt="dockerHub" src="https://github.com/user-attachments/assets/70fb9b79-e9c2-4003-b48c-adf771b2f11e" />
 
 ### 4단계 - AWS EC2 배포 (13.220.3.217:8080)
-![AWS배포](https://github.com/user-attachments/assets/dab17933-656a-425c-9580-b7baf7e8c51f)
+![localhost8081](https://github.com/user-attachments/assets/3313d6e9-2a7a-4af4-9577-66e01b16dbbb)
 
 ## 기술 스택
 
